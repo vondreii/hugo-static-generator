@@ -1,0 +1,33 @@
+<footer>
+	<!-- Instagram -->
+	<a href="{{ .Site.Params.insta}}"><img style="width: 30px" src="/images/instagram.png" alt="icon"></a> 
+	<span style="padding:15px">
+	<!-- Github -->
+	<a href="{{ .Site.Params.github}}"><img style="width: 30px" src="/images/github.png" alt="icon"></a> 
+	<span style="padding:15px">
+	<!-- Linkedin -->
+	<a href="{{ .Site.Params.linkedIn}}"><img style="width: 30px" src="/images/linkedin.png" alt="icon"></a> 
+	<span style="padding:15px">
+
+	<!-- More Social Links -->
+  <!-- Facebook -->
+	<!-- <a href="{{ .Site.Params.facebook}}"><img style="width: 30px" src="/images/facebook.png" alt="icon"></a> 
+	<span style="padding:15px"> -->
+
+	<!-- Youtube -->
+	<!-- <a href="{{ .Site.Params.youtube}}"><img style="width: 30px" src="/images/youtube.png" alt="icon"></a> 
+	<span style="padding:15px"> -->
+
+	<!-- Twitter -->
+	<!-- <a href="{{ .Site.Params.twitter}}"><img style="width: 30px" src="/images/twitter.png" alt="icon"></a> 
+	<span style="padding:15px"> -->
+			
+	<!-- Email -->
+	<!-- <a href="{{ .Site.Params.email}}"><img style="width: 30px" src="/images/gmail.png" alt="icon"></a>  -->
+
+	<br>
+	<span class="copyright">
+			{{ with .Site.Copyright | default "&copy;" }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
+			<a href="https://github.com/aanupam23/hugo-sugoi" title="hugo-sugoi" alt="hugo-sugoi" target="_blank">Hugo-Sugoi</a>
+	</span>
+</footer>

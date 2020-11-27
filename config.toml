@@ -1,0 +1,12 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Hugo Framework"
+theme = "hugo-sugoi"
+
+[Params]
+  herotitle = "Hugo Framework"
+  herolinkText = "Check out my work!"
+  herolink = "https://vondreii.com"
+  insta = "https://www.instagram.com/vondreii/"
+  github = "https://github.com/vondreii"
+  linkedIn = "https://www.linkedin.com/in/sharlene-von-drehnen"
