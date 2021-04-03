@@ -1,6 +1,6 @@
 ---
-title: "Social Links"
-date: 2020-11-17T15:05:56+05:30
+title: "3. Adding your Social Media links"
+date: 2020-11-17T12:05:56+05:30
 draft: false
 
 categories: ["Hugo"]

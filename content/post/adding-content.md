@@ -1,6 +1,6 @@
 ---
-title: "Content"
-date: 2020-11-17T15:05:56+05:30
+title: "4. Adding Content and pages to your website"
+date: 2020-11-17T11:05:56+05:30
 draft: false
 
 categories: ["Hugo"]

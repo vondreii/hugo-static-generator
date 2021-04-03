@@ -1,6 +1,6 @@
 ---
-title: "Configuring Markdown files"
-date: 2020-11-17T15:05:56+05:30
+title: "5. Configuring the Markdown files"
+date: 2020-11-17T10:05:56+05:30
 draft: false
 
 categories: ["Hugo"]

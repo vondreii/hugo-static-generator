@@ -1,6 +1,6 @@
 ---
-title: "Themes"
-date: 2020-11-17T15:05:56+05:30
+title: "2. Finding and Installing a Theme"
+date: 2020-11-17T13:05:56+05:30
 draft: false
 
 categories: ["Hugo"]
