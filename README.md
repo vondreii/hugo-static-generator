@@ -1,4 +1,4 @@
-# hugo-framework
+# hugo-static-generator
 
 ## About 
 
