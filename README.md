@@ -1,4 +1,4 @@
-# hugo-static-generator
+# sugoi-theme-hugo
 
 ## About 
 
